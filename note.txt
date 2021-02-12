@@ -1,0 +1,36 @@
+زهرا
+عربی
+کارشناسی مهندسی برق
+zahraarabi@gmail.com
+
+دانشجوی سال اخر دانشگاه امیرکبیر
+
+گیت هاب
+github.com/zaharaarabi
+
+برنامه نویسی پایتون
+برنامه نویسی ++c
+برنامه نویسی میکروکنترلر ها
+
+برنامه نویسی بازی سودوکو
+ساخت برنامه ی ایجاد رزومه
+برنامه نویسی الگوریتم های هوش مصنوعی
+
+-------------------------------------------
+Zahra
+Arabi
+Electrical Engineering
+zahraarabi@gmail.com
+
+studing at AmirKabirUnivercity
+
+github
+github.com/zaharaarabi
+
+python
+c++
+microcontrollers
+
+soduko
+resume maker
+AI algorithems
